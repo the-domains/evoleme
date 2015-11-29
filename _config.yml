@@ -1,7 +1,7 @@
 name: EvoleMe
 favicon: null
-layout_spectrum: 0.8108071219176054
-typography_spectrum: 0.16313378210179508
+layout_spectrum: 0.75308
+typography_spectrum: 0.23505
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4348332667723298
+  brandStrength: 0.5
   lightness: 0.9509195175487548
-  saturation: 0.3493434861302376
+  saturation: 0.4375
   rhythmicContrast: 0.7113515720702708
 purpose: []
