@@ -2,6 +2,7 @@ name: EvoleMe
 favicon: null
 layout_spectrum: 0.75308
 typography_spectrum: 0.23505
+title: EvolveME
 cta:
   domain: null
   bucket: null
